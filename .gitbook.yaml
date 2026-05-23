@@ -7,7 +7,3 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
-
-redirects:
-  # Add legacy redirects here when pages move, e.g.:
-  # old/path: new/path.md
