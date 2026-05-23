@@ -1,0 +1,16 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Node (in case anyone runs gitbook-cli locally)
+node_modules/
+_book/
+.gitbook-build/
+
+# Local secrets
+.env
+.env.*
+!.env.example

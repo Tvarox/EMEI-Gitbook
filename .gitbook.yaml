@@ -1,0 +1,13 @@
+# GitBook Git Sync configuration.
+# Tells GitBook where to find the docs root and what file is the table of contents.
+# Docs: https://gitbook.com/docs/getting-started/git-sync/content-configuration
+
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  # Add legacy redirects here when pages move, e.g.:
+  # old/path: new/path.md
